@@ -10,7 +10,7 @@
 
 swagger地址:http://localhost:8003/swagger-ui.html
 
-数据库地址:192.168.32.51   root/mesadt
+数据库地址:192.168.32.51  tset_transaction   root/mesadt
 
 文档地址: p6paly\src\main\resources\static\spring事务管理.docx
 
